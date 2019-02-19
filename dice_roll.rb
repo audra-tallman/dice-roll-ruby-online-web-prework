@@ -1,4 +1,4 @@
-def roll(1 + rand(6))
+def roll(rand
   puts roll()
   roll
 end
