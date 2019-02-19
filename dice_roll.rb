@@ -1,6 +1,4 @@
 def roll(1 + rand(6))
-
-
-def roll
-  # code goes here
+  puts roll()
+  roll
 end
